@@ -30,7 +30,7 @@ python manage.py migrate
 # 5️⃣ Run the Development Server
 python manage.py runserver
 
-📂 Project Structure
+**##📂 Project Structure**
 Office-employee-mangement/
 │── Project/                 # Main Django project settings  
 │── emp_app/                 # Employee management app  
