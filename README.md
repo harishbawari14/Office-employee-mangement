@@ -29,15 +29,6 @@ python manage.py migrate
 
 # 5️⃣ Run the Development Server
 python manage.py runserver
-```sh
 
-##📂 Project Structure
-```sh
-Office-employee-mangement/
-│── Project/                 # Main Django project settings  
-│── emp_app/                 # Employee management app  
-│── emp_app/migrations/       # Database migrations  
-│── emp_app/templates/        # HTML Templates  
-│── manage.py                 # Django management script  
-│── db.sqlite3                # SQLite Database  
-│── README.md                 # Project documentation  
+
+
