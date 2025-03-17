@@ -26,7 +26,10 @@ A web-based application to efficiently manage employees, including **adding, rem
 git clone https://github.com/harishbawari14/Office-employee-mangement.git
 cd Office-employee-mangement
 
-##**Office-employee-mangement**
+---
+
+📂 Project Structure
+## **Office-employee-mangement**
 │── Project/                 # Main Django project settings  
 │── emp_app/                 # Employee management app  
 │── emp_app/migrations/       # Database migrations  
